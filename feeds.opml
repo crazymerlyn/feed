@@ -98,7 +98,7 @@
       <outline text="the evolving ultrasaurus" title="the evolving ultrasaurus" type="rss" 
             xmlUrl="http://www.ultrasaurus.com/feed/" htmlUrl="https://www.ultrasaurus.com"/>
       <outline text="Mel Chua" title="Mel Chua" type="rss" 
-            xmlUrl="http://blog.melchua.com/feed/atom/"/>
+            xmlUrl="http://blog.melchua.com/feed/atom/" htmlUrl="http://blog.melchua.com"/>
       <outline text="Martin Fowler" title="Martin Fowler" type="rss" 
             xmlUrl="http://martinfowler.com/bliki/bliki.atom" htmlUrl="http://martinfowler.com/bliki/bliki.atom"/>
       <outline text="Aphyr: Posts" title="Aphyr: Posts" type="rss" 
@@ -121,8 +121,6 @@
             xmlUrl="http://mechanical-sympathy.blogspot.com/feeds/posts/default" htmlUrl="https://mechanical-sympathy.blogspot.com/"/>
       <outline text="blog.jfo.click" title="blog.jfo.click" type="rss" 
             xmlUrl="http://blog.jfo.click/feed.xml" htmlUrl="https://blog.jfo.click/"/>
-      <outline text="Waxy.org" title="Waxy.org" type="rss" 
-            xmlUrl="http://waxy.org/index.xml" htmlUrl="https://waxy.org"/>
       <outline text="Kelsey Innis" title="Kelsey Innis" type="rss" 
             xmlUrl="http://nerd.kelseyinnis.com/atom.xml"/>
       <outline text="kellansworklog" title="kellansworklog" type="rss" 
