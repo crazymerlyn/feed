@@ -5,7 +5,7 @@
 </head>
 <body>
       <outline text="The GitHub Blog" title="The GitHub Blog" type="rss" 
-            xmlUrl="https://blog.github.com/all.atom" htmlUrl="https://blog.github.com/all.atom"/>
+            xmlUrl="https://blog.github.com/all.atom" htmlUrl="https://github.blog"/>
   <outline title="tech" text="tech">
       <outline text="Latest - kate losse" title="Latest - kate losse" type="rss" 
             xmlUrl="http://www.katelosse.tv/latest?format=rss" htmlUrl="http://www.katelosse.tv/latest/"/>
@@ -24,7 +24,7 @@
       <outline text="Simply Ahmazing" title="Simply Ahmazing" type="rss" 
             xmlUrl="http://simplyahmazing.github.io/feed.xml" htmlUrl="http://simplyahmazing.github.io/"/>
       <outline text="Status Code Archive Feed" title="Status Code Archive Feed" type="rss" 
-            xmlUrl="http://us1.campaign-archive2.com/feed?u=0618f6a79d6bb9675f313ceb2&amp;id=aac3a24f6c" htmlUrl="https://us1.campaign-archive.com/feed?u=0618f6a79d6bb9675f313ceb2&amp;id=aac3a24f6c"/>
+            xmlUrl="http://us1.campaign-archive2.com/feed?u=0618f6a79d6bb9675f313ceb2&amp;id=aac3a24f6c"/>
       <outline text="RSS" title="RSS" type="rss" 
             xmlUrl="https://medium.com/feed/@katherine.paur" htmlUrl="https://medium.com/@katherine.paur?source=rss-a5614db18596------2"/>
       <outline text="Ticki&#39;s blog" title="Ticki&#39;s blog" type="rss" 
@@ -36,7 +36,7 @@
       <outline text="Amy Hanlon" title="Amy Hanlon" type="rss" 
             xmlUrl="http://mathamy.com/feeds/all.atom.xml" htmlUrl="http://mathamy.com/feeds/all.atom.xml"/>
       <outline text="Dan Lưu" title="Dan Lưu" type="rss" 
-            xmlUrl="http://danluu.com/atom.xml" htmlUrl="http://danluu.com/atom/index.xml"/>
+            xmlUrl="http://danluu.com/atom.xml" htmlUrl="https://danluu.com/atom/index.xml"/>
       <outline text="OSKAR" title="OSKAR" type="rss" 
             xmlUrl="http://experiments.oskarth.com/index.xml"/>
       <outline text="Squid&#39;s Blog" title="Squid&#39;s Blog" type="rss" 
@@ -90,7 +90,7 @@
       <outline text="Virtuous Code" title="Virtuous Code" type="rss" 
             xmlUrl="http://feeds.feedburner.com/VirtuousCode" htmlUrl="http://www.virtuouscode.com"/>
       <outline text="Dan McKinley" title="Dan McKinley" type="rss" 
-            xmlUrl="http://mcfunley.com/feed/atom" htmlUrl="http://mcfunley.com/feed/atom"/>
+            xmlUrl="http://mcfunley.com/feed/atom" htmlUrl="https://mcfunley.com/"/>
       <outline text="Planet Knight-Mozilla OpenNews" title="Planet Knight-Mozilla OpenNews" type="rss" 
             xmlUrl="http://planet.mozillaopennews.org/rss20.xml"/>
       <outline text="Infotropism" title="Infotropism" type="rss" 
@@ -132,7 +132,7 @@
       <outline text="Kyle Kelley" title="Kyle Kelley" type="rss" 
             xmlUrl="http://lambdaops.com/feed" htmlUrl="https://lambdaops.com/"/>
       <outline text="Andree Monette" title="Andree Monette" type="rss" 
-            xmlUrl="http://acmonette.com/feeds/all.atom.xml" htmlUrl="http://acmonette.com/feeds/all.atom.xml"/>
+            xmlUrl="http://acmonette.com/feeds/all.atom.xml"/>
       <outline text="Lara Callender Hogan" title="Lara Callender Hogan" type="rss" 
             xmlUrl="http://larahogan.me/feed.xml" htmlUrl="http://larahogan.github.io/"/>
       <outline text="Go, the unwritten parts" title="Go, the unwritten parts" type="rss" 
@@ -154,5 +154,7 @@
             xmlUrl="https://eli.thegreenplace.net/feeds/all.atom.xml" htmlUrl="https://eli.thegreenplace.net/feeds/all.atom.xml"/>
       <outline text="Active questions tagged algorithm - Stack Overflow" title="Active questions tagged algorithm - Stack Overflow" type="rss" 
             xmlUrl="https://stackoverflow.com/feeds/tag/algorithm" htmlUrl="https://stackoverflow.com/questions/tagged/?tagnames=algorithm&amp;sort=active"/>
+      <outline text="null program" title="null program" type="rss" 
+            xmlUrl="https://nullprogram.com/feed/" htmlUrl="https://nullprogram.com"/>
 </body>
 </opml>
