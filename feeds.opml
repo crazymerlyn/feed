@@ -12,7 +12,7 @@
       <outline text="Pointers Gone Wild" title="Pointers Gone Wild" type="rss" 
             xmlUrl="http://pointersgonewild.wordpress.com/feed/" htmlUrl="https://pointersgonewild.com"/>
       <outline text="wingolog" title="wingolog" type="rss" 
-            xmlUrl="http://wingolog.org/feed/atom" htmlUrl="http://wingolog.org/"/>
+            xmlUrl="http://wingolog.org/feed/atom" htmlUrl="https://wingolog.org/"/>
       <outline text="CSS Perverts - Medium" title="CSS Perverts - Medium" type="rss" 
             xmlUrl="https://medium.com/feed/cool-code-pal" htmlUrl="https://medium.com/cool-code-pal?source=rss----8aec214bcd83---4"/>
       <outline text="Programming in the 21st Century" title="Programming in the 21st Century" type="rss" 
@@ -63,8 +63,6 @@
             xmlUrl="https://cmcenroe.me/feed.xml" htmlUrl="https://cmcenroe.me/"/>
       <outline text="Monica Dinculescu" title="Monica Dinculescu" type="rss" 
             xmlUrl="http://notwaldorf.github.io/atom.xml"/>
-      <outline text="Antifuchs&#39; µblag" title="Antifuchs&#39; µblag" type="rss" 
-            xmlUrl="http://mublag.boinkor.net/rss" htmlUrl="https://antifuchs.soup.io/"/>
       <outline text="Katherine Fellows" title="Katherine Fellows" type="rss" 
             xmlUrl="https://medium.com/feed/@kf" htmlUrl="https://medium.com/@kf?source=rss-4240ae716ddf------2"/>
       <outline text="Writing" title="Writing" type="rss" 
@@ -72,7 +70,7 @@
       <outline text="Cron Weekly: a weekly newsletter for Linux and Open Source sysadmins" title="Cron Weekly: a weekly newsletter for Linux and Open Source sysadmins" type="rss" 
             xmlUrl="http://www.cronweekly.com/feed/" htmlUrl="https://ma.ttias.be/cronweekly/"/>
       <outline text="Emily St＊" title="Emily St＊" type="rss" 
-            xmlUrl="https://emily.st/feed/"/>
+            xmlUrl="https://emily.st/feed/" htmlUrl="https://archive.emily.st/"/>
       <outline text="Montreal Tech Watch » Events" title="Montreal Tech Watch » Events" type="rss" 
             xmlUrl="http://montrealtechwatch.com/category/events/feed/" htmlUrl="https://montrealtechwatch.com"/>
       <outline text="Aria Stewart" title="Aria Stewart" type="rss" 
@@ -82,7 +80,7 @@
       <outline text="Tavish Armstrong" title="Tavish Armstrong" type="rss" 
             xmlUrl="http://tavisharmstrong.com/feeds/all.atom.xml" htmlUrl="http://tavisharmstrong.com/feeds/all.atom/index.xml"/>
       <outline text="Virtuous Code" title="Virtuous Code" type="rss" 
-            xmlUrl="http://feeds.feedburner.com/VirtuousCode" htmlUrl="http://www.virtuouscode.com"/>
+            xmlUrl="http://feeds.feedburner.com/VirtuousCode" htmlUrl="https://avdi.codes"/>
       <outline text="Dan McKinley" title="Dan McKinley" type="rss" 
             xmlUrl="http://mcfunley.com/feed/atom" htmlUrl="https://mcfunley.com/"/>
       <outline text="Planet Knight-Mozilla OpenNews" title="Planet Knight-Mozilla OpenNews" type="rss" 
@@ -102,7 +100,7 @@
       <outline text="nelhage debugs shit" title="nelhage debugs shit" type="rss" 
             xmlUrl="http://nelhagedebugsshit.tumblr.com/rss" htmlUrl="https://nelhagedebugsshit.tumblr.com/"/>
       <outline text="Elided Branches" title="Elided Branches" type="rss" 
-            xmlUrl="http://whilefalse.blogspot.com/feeds/posts/default" htmlUrl="http://www.elidedbranches.com/"/>
+            xmlUrl="http://whilefalse.blogspot.com/feeds/posts/default" htmlUrl="https://www.elidedbranches.com/"/>
       <outline text="Arshia Mufti" title="Arshia Mufti" type="rss" 
             xmlUrl="http://arshiamufti.com/rss/" htmlUrl="http://arshiamufti.com/"/>
       <outline text="Embedded.fm Blog - Embedded" title="Embedded.fm Blog - Embedded" type="rss" 
@@ -150,5 +148,13 @@
             xmlUrl="https://www.rfc-editor.org/rfcatom.xml"/>
       <outline text="Active questions tagged scheme - Stack Overflow" title="Active questions tagged scheme - Stack Overflow" type="rss" 
             xmlUrl="http://stackoverflow.com/feeds/tag/scheme" htmlUrl="https://stackoverflow.com/questions/tagged/?tagnames=scheme&amp;sort=active"/>
+      <outline text="Destroy All Software Screencasts" title="Destroy All Software Screencasts" type="rss" 
+            xmlUrl="https://www.destroyallsoftware.com/screencasts/feed" htmlUrl="https://www.destroyallsoftware.com/screencasts"/>
+      <outline text="What If?" title="What If?" type="rss" 
+            xmlUrl="https://what-if.xkcd.com/feed.atom"/>
+      <outline text="Random Ramblings on Math, Juggling, Programming, Business, and stuff ..." title="Random Ramblings on Math, Juggling, Programming, Business, and stuff ..." type="rss" 
+            xmlUrl="https://www.solipsys.co.uk/rss.xml" htmlUrl="https://www.solipsys.co.uk/new/ColinsBlog.html"/>
+      <outline text="Things Of Interest" title="Things Of Interest" type="rss" 
+            xmlUrl="https://qntm.org/rss.php" htmlUrl="https://qntm.org/"/>
 </body>
 </opml>
