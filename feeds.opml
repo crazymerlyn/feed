@@ -28,7 +28,7 @@
       <outline text="Ticki&#39;s blog" title="Ticki&#39;s blog" type="rss" 
             xmlUrl="http://ticki.github.io/index.xml" htmlUrl="http://ticki.github.io/"/>
       <outline text="Third Bit" title="Third Bit" type="rss" 
-            xmlUrl="http://third-bit.com/feed.xml" htmlUrl="http://third-bit.com/"/>
+            xmlUrl="http://third-bit.com/feed.xml"/>
       <outline text="Nelson&#39;s log" title="Nelson&#39;s log" type="rss" 
             xmlUrl="http://nelsonslog.wordpress.com/feed/" htmlUrl="https://nelsonslog.wordpress.com"/>
       <outline text="Amy Hanlon" title="Amy Hanlon" type="rss" 
@@ -40,7 +40,7 @@
       <outline text="Squid&#39;s Blog" title="Squid&#39;s Blog" type="rss" 
             xmlUrl="http://gigasquidsoftware.com/atom.xml"/>
       <outline text="Philip Guo" title="Philip Guo" type="rss" 
-            xmlUrl="http://www.pgbovine.net/pgbovine-rss-feed.xml" htmlUrl="http://www.pgbovine.net/"/>
+            xmlUrl="http://www.pgbovine.net/pgbovine-rss-feed.xml"/>
       <outline text="Chad Fowler" title="Chad Fowler" type="rss" 
             xmlUrl="http://feeds.feedburner.com/ThePassionateProgrammer"/>
       <outline text="I Quant NY" title="I Quant NY" type="rss" 
@@ -102,11 +102,9 @@
       <outline text="Elided Branches" title="Elided Branches" type="rss" 
             xmlUrl="http://whilefalse.blogspot.com/feeds/posts/default" htmlUrl="https://www.elidedbranches.com/"/>
       <outline text="Arshia Mufti" title="Arshia Mufti" type="rss" 
-            xmlUrl="http://arshiamufti.com/rss/" htmlUrl="http://arshiamufti.com/"/>
+            xmlUrl="http://arshiamufti.com/rss/"/>
       <outline text="Embedded.fm Blog - Embedded" title="Embedded.fm Blog - Embedded" type="rss" 
             xmlUrl="http://embedded.fm/blog?format=RSS" htmlUrl="https://embedded.fm/blog/"/>
-      <outline text="8th Light Blog" title="8th Light Blog" type="rss" 
-            xmlUrl="http://blog.8thlight.com/feed/atom.xml"/>
       <outline text="Mechanical Sympathy" title="Mechanical Sympathy" type="rss" 
             xmlUrl="http://mechanical-sympathy.blogspot.com/feeds/posts/default" htmlUrl="https://mechanical-sympathy.blogspot.com/"/>
       <outline text="blog.jfo.click" title="blog.jfo.click" type="rss" 
@@ -128,7 +126,7 @@
       <outline text="Go, the unwritten parts" title="Go, the unwritten parts" type="rss" 
             xmlUrl="https://rakyll.org/index.xml" htmlUrl="https://rakyll.org/"/>
       <outline text="Cap Watkins" title="Cap Watkins" type="rss" 
-            xmlUrl="http://blog.capwatkins.com/feed" htmlUrl="http://blog.capwatkins.com"/>
+            xmlUrl="http://blog.capwatkins.com/feed"/>
       <outline text="selena deckelmann" title="selena deckelmann" type="rss" 
             xmlUrl="http://www.chesnok.com/daily/feed/" htmlUrl="http://www.chesnok.com/daily"/>
   </outline>
