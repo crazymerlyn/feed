@@ -26,9 +26,9 @@
       <outline text="RSS" title="RSS" type="rss" 
             xmlUrl="https://medium.com/feed/@katherine.paur" htmlUrl="https://medium.com/@katherine.paur?source=rss-a5614db18596------2"/>
       <outline text="Ticki&#39;s blog" title="Ticki&#39;s blog" type="rss" 
-            xmlUrl="http://ticki.github.io/index.xml" htmlUrl="http://ticki.github.io/"/>
+            xmlUrl="http://ticki.github.io/index.xml" htmlUrl="/"/>
       <outline text="Third Bit" title="Third Bit" type="rss" 
-            xmlUrl="http://third-bit.com/feed.xml"/>
+            xmlUrl="http://third-bit.com/feed.xml" htmlUrl="https://third-bit.com"/>
       <outline text="Nelson&#39;s log" title="Nelson&#39;s log" type="rss" 
             xmlUrl="http://nelsonslog.wordpress.com/feed/" htmlUrl="https://nelsonslog.wordpress.com"/>
       <outline text="Amy Hanlon" title="Amy Hanlon" type="rss" 
@@ -88,7 +88,7 @@
       <outline text="Infotropism" title="Infotropism" type="rss" 
             xmlUrl="http://infotrope.net/feed/"/>
       <outline text="the evolving ultrasaurus" title="the evolving ultrasaurus" type="rss" 
-            xmlUrl="http://www.ultrasaurus.com/feed/" htmlUrl="https://www.ultrasaurus.com"/>
+            xmlUrl="http://www.ultrasaurus.com/feed/"/>
       <outline text="Mel Chua" title="Mel Chua" type="rss" 
             xmlUrl="http://blog.melchua.com/feed/atom/"/>
       <outline text="Aphyr: Posts" title="Aphyr: Posts" type="rss" 
@@ -108,13 +108,13 @@
       <outline text="Mechanical Sympathy" title="Mechanical Sympathy" type="rss" 
             xmlUrl="http://mechanical-sympathy.blogspot.com/feeds/posts/default" htmlUrl="https://mechanical-sympathy.blogspot.com/"/>
       <outline text="blog.jfo.click" title="blog.jfo.click" type="rss" 
-            xmlUrl="http://blog.jfo.click/feed.xml" htmlUrl="http://github.com/dylang/node-rss"/>
+            xmlUrl="http://blog.jfo.click/feed.xml" htmlUrl="https://blog.jfo.click"/>
       <outline text="Kelsey Innis" title="Kelsey Innis" type="rss" 
             xmlUrl="http://nerd.kelseyinnis.com/atom.xml"/>
       <outline text="kellansworklog" title="kellansworklog" type="rss" 
             xmlUrl="https://kellansworklog.wordpress.com/feed/" htmlUrl="https://kellansworklog.wordpress.com"/>
       <outline text="Oskar Thorén" title="Oskar Thorén" type="rss" 
-            xmlUrl="http://blog.oskarth.com/posts.atom" htmlUrl="http://blog.oskarth.com"/>
+            xmlUrl="http://blog.oskarth.com/posts.atom" htmlUrl="https://blog.oskarth.com"/>
       <outline text="One Mo&#39; Gin" title="One Mo&#39; Gin" type="rss" 
             xmlUrl="http://onemogin.com/feed.xml" htmlUrl="http://onemogin.com/"/>
       <outline text="Kyle Kelley" title="Kyle Kelley" type="rss" 
@@ -149,10 +149,12 @@
       <outline text="Destroy All Software Screencasts" title="Destroy All Software Screencasts" type="rss" 
             xmlUrl="https://www.destroyallsoftware.com/screencasts/feed" htmlUrl="https://www.destroyallsoftware.com/screencasts"/>
       <outline text="What If?" title="What If?" type="rss" 
-            xmlUrl="https://what-if.xkcd.com/feed.atom"/>
+            xmlUrl="https://what-if.xkcd.com/feed.atom" htmlUrl="https://what-if.xkcd.com"/>
       <outline text="Random Ramblings on Math, Juggling, Programming, Business, and stuff ..." title="Random Ramblings on Math, Juggling, Programming, Business, and stuff ..." type="rss" 
             xmlUrl="https://www.solipsys.co.uk/rss.xml" htmlUrl="https://www.solipsys.co.uk/new/ColinsBlog.html"/>
       <outline text="Things Of Interest" title="Things Of Interest" type="rss" 
             xmlUrl="https://qntm.org/rss.php" htmlUrl="https://qntm.org/"/>
+      <outline text="Hillel Wayne" title="Hillel Wayne" type="rss" 
+            xmlUrl="https://www.hillelwayne.com/post/index.xml" htmlUrl="https://www.hillelwayne.com/post/"/>
 </body>
 </opml>
