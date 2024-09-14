@@ -4,6 +4,16 @@
 <title>Feed Subscriptions</title>
 </head>
 <body>
+      <outline text="Andrew Kelley" title="Andrew Kelley" type="rss" 
+            xmlUrl="https://andrewkelley.me/rss.xml" htmlUrl="https://andrewkelley.me/"/>
+      <outline text="NRK&#39;s Website" title="NRK&#39;s Website" type="rss" 
+            xmlUrl="https://nrk.neocities.org/rss.xml" htmlUrl="https://nrk.neocities.org/"/>
+      <outline text="BlogWerx - Atom" title="BlogWerx - Atom" type="rss" 
+            xmlUrl="https://blog.kodewerx.org/feeds/posts/default" htmlUrl="https://blog.kodewerx.org/"/>
+      <outline text="Josh Haberman" title="Josh Haberman" type="rss" 
+            xmlUrl="https://blog.reverberate.org/feed.xml" htmlUrl="https://blog.reverberate.org/"/>
+      <outline text="purplesyringa&#39;s blog" title="purplesyringa&#39;s blog" type="rss" 
+            xmlUrl="https://purplesyringa.moe/blog/feed.rss" htmlUrl="https://purplesyringa.moe/blog/"/>
   <outline title="tech" text="tech">
       <outline text="Accidentally Quadratic" title="Accidentally Quadratic" type="rss" 
             xmlUrl="http://accidentallyquadratic.tumblr.com/rss" htmlUrl="https://accidentallyquadratic.tumblr.com/"/>
@@ -43,19 +53,15 @@
             xmlUrl="https://aphyr.com/posts.atom"/>
   </outline>
       <outline text="Drew DeVault&#39;s Blog" title="Drew DeVault&#39;s Blog" type="rss" 
-            xmlUrl="https://drewdevault.com/feed.xml" htmlUrl="https://drewdevault.com"/>
+            xmlUrl="https://drewdevault.com/feed.xml"/>
       <outline text="xkcd.com" title="xkcd.com" type="rss" 
             xmlUrl="https://xkcd.com/atom.xml" htmlUrl="https://xkcd.com/"/>
-      <outline text="Saturday Morning Breakfast Cereal" title="Saturday Morning Breakfast Cereal" type="rss" 
-            xmlUrl="https://www.smbc-comics.com/comic/rss" htmlUrl="https://www.smbc-comics.com/"/>
       <outline text="Eli Bendersky&#39;s website" title="Eli Bendersky&#39;s website" type="rss" 
             xmlUrl="https://eli.thegreenplace.net/feeds/all.atom.xml" htmlUrl="https://eli.thegreenplace.net/"/>
       <outline text="null program" title="null program" type="rss" 
             xmlUrl="https://nullprogram.com/feed/" htmlUrl="https://nullprogram.com"/>
       <outline text="Byte-Size Snacks" title="Byte-Size Snacks" type="rss" 
             xmlUrl="https://www.kolman.si/feed.xml" htmlUrl="https://www.kolman.si/"/>
-      <outline text="Active questions tagged scheme - Stack Overflow" title="Active questions tagged scheme - Stack Overflow" type="rss" 
-            xmlUrl="http://stackoverflow.com/feeds/tag/scheme" htmlUrl="https://stackoverflow.com/questions/tagged/?tagnames=scheme&amp;sort=active"/>
       <outline text="Destroy All Software Screencasts" title="Destroy All Software Screencasts" type="rss" 
             xmlUrl="https://www.destroyallsoftware.com/screencasts/feed" htmlUrl="https://www.destroyallsoftware.com/screencasts"/>
       <outline text="What If?" title="What If?" type="rss" 
